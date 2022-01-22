@@ -1,0 +1,6 @@
+[submodule "HyPlayer.Uta"]
+	path = HyPlayer.Uta
+	url = https://github.com/HyPlayer/HyPlayer.Uta.git
+[submodule "HyPlayer.NCMProvider"]
+	path = HyPlayer.NCMProvider
+	url = https://github.com/HyPlayer/HyPlayer.NCMProvider.git
